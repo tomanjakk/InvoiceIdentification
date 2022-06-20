@@ -1,0 +1,33 @@
+/*
+ * author unrea1 <jiechen1756@ruc.edu.cn>
+ * 2020/5/27 上午12:31
+ */
+
+/*
+用于/Backend/Common/work的css文件
+ */
+.a4 {
+    width: 190mm;
+    height: 250mm;
+    margin: auto;
+}
+
+.offline-contest-group-result {
+    width: 190mm;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    margin: auto;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+table img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
